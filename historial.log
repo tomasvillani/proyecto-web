@@ -1,0 +1,73 @@
+commit 9e8932de3ca2f11340624a2557c5b2164710fcdb
+Author: Tomás Villani <tomasvillanidepedro2022@gmail.com>
+Date:   Wed Sep 25 12:26:26 2024 +0100
+
+    cambio link css
+
+commit b8f6a469e5d2d14957e58b68d07ef6d5d3a4a217
+Merge: a942087 fe40a8d
+Author: Tomás Villani <tomasvillanidepedro2022@gmail.com>
+Date:   Wed Sep 25 12:24:18 2024 +0100
+
+    Merge branch 'master' of github.com:tomasvillani/proyecto-web
+
+commit fe40a8d570b28da958a23a750d47985acbd70892
+Author: JoséDavid <josezondaw@gmail.com>
+Date:   Wed Sep 25 12:19:01 2024 +0100
+
+    añado link css footer
+
+commit 77f3dbb5a987e6db6f838932e1ca2b64737b8c25
+Author: JoséDavid <josezondaw@gmail.com>
+Date:   Wed Sep 25 12:17:44 2024 +0100
+
+    añado seccion footer
+
+commit 783e826b78c5ee286b603535bc51994bfc99827d
+Author: JoséDavid <josezondaw@gmail.com>
+Date:   Wed Sep 25 12:15:34 2024 +0100
+
+    añado seccion footer
+
+commit 87fb639fc2c995cb20e2d5f21d498d7fd4f0dfba
+Merge: c8d4bfd 1d544a3
+Author: JoséDavid <josezondaw@gmail.com>
+Date:   Wed Sep 25 12:11:17 2024 +0100
+
+    Merge branch 'footer' of github.com:tomasvillani/proyecto-web into footer
+
+commit c8d4bfdd2a0d2193c91681102825e55a03e0f359
+Author: JoséDavid <josezondaw@gmail.com>
+Date:   Wed Sep 25 12:05:25 2024 +0100
+
+    commit css footer
+
+commit a942087cd77e3375e3a12e33b2e20ac9e2da0ad8
+Author: Tomás Villani <tomasvillanidepedro2022@gmail.com>
+Date:   Wed Sep 25 12:05:12 2024 +0100
+
+    commit css header
+
+commit 1d544a31116a998e9a37ad5c30346f82d5cfa528
+Author: JoseDavid-2daw <josezondaw@gmail.com>
+Date:   Wed Sep 25 12:00:36 2024 +0100
+
+    Añado seccion footer
+
+commit bcb51809a7a347ee6654b364d602bcc10bd3937f
+Author: Tomás Villani <tomasvillanidepedro2022@gmail.com>
+Date:   Wed Sep 25 11:59:29 2024 +0100
+
+    Cambio encabezado 1
+
+commit bbdbb779394bef388fb8be65fe2e97654e3dee27
+Author: Tomás Villani <tomasvillanidepedro2022@gmail.com>
+Date:   Wed Sep 25 11:54:49 2024 +0100
+
+    Agregar estructura básica de index.html
+
+commit 2a226fdce0526185bab261331b5e5fcde56a2a46
+Author: Tomás Villani <tomasvillanidepedro2022@gmail.com>
+Date:   Wed Sep 25 11:44:58 2024 +0100
+
+    first commit

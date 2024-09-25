@@ -1,0 +1,96 @@
+#Inserto el README en el repositorio y lo clono en mi ordenador local.
+echo "# proyecto-web" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:tomasvillani/proyecto-web.git
+git push -u origin master
+git clone git@github.com:tomasvillani/proyecto-web.git
+git push origin master
+
+#Creo el index.html y lo inserto en la rama master.
+touch index.html
+git status
+git add .
+git commit -m 'Agregar estructura básica de index.html'
+git push origin master
+
+#Creo la rama header y llevo los cambios del master al header.
+git branch
+git branch header
+git branch
+git checkout header
+git branch
+git pull origin master
+git push origin header
+
+#Inserto la cabecera del index.html y hago un commit al header.
+git branch
+git status
+git add .
+git commit -m 'Cambio encabezado 1'
+git push origin header
+
+#Creo el archivo css y confirmo los cambios al header.
+git branch
+touch index.css
+git status
+git add .
+git commit -m 'commit css header'
+git push origin header
+
+#Fusiono la rama header con el master.
+git branch
+git checkout master
+git branch
+git pull origin header
+git merge header
+git branch
+git pull origin header
+git merge header
+git push origin master
+git pull origin header
+git push origin master
+git pull origin master
+git config pull.rebase false
+git merge header
+git push origin master
+git pull origin header
+git push origin master
+git status
+git pull origin master
+git push origin master
+
+#Modifico la etiqueta que enlaza el css con el html.
+git branch
+git checkout header
+git add .
+git commit -m 'cambio link css'
+git push origin master
+
+#Modifico la cabecera del html.
+git branch
+git checkout master
+git checkout header
+git branch
+git add .
+git commit -m 'cambio en header 3'
+git push origin header
+git chekout master
+git checkout master
+git pull origin header
+git push origin master
+git chekout header
+git checkout header
+
+#Añado un comentario en el html.
+git branch
+git add .
+git commit -m 'cambio header 4'
+git push origin header
+git checkout master
+git pull origin header
+git push origin master
+
+#Inserto el historial de commits en historial.log
+git log >> historial.log
